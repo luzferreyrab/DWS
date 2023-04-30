@@ -1,0 +1,68 @@
+/* Estilos para la barra de navegación */
+.topnav {
+    overflow: hidden;
+    background-color: #222;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #f88;
+    color: #222;
+  }
+  
+  .topnav a.active {
+    background-color: #f88;
+    color: #222;
+  }
+  
+  /* Estilos para el encabezado */
+  .header {
+    background-color: #f88;
+    padding: 20px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  /* Estilos para el contenido principal */
+  .content {
+    padding: 16px;
+  }
+  
+  .content h2 {
+    font-size: 28px;
+    margin-top: 40px;
+    color: #f88;
+  }
+  
+  .content p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #333;
+  }
+  
+  .content ul {
+    list-style-type: disc;
+    margin-left: 30px;
+    color: #333;
+  }
+  
+  /* Estilos para el pie de página */
+  .footer {
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-size: 12px;
+  }
+
+  
